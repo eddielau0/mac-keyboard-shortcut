@@ -101,9 +101,9 @@ ol li span {
 .tall {
   height: 62px;
 }
-.special.tall {
-  height: 41px;
-  padding-top: 28px;
+#keyboard .special.tall {
+  height: 53px;
+  padding-top: 16px;
 }
 .special.multi-line {
   height: 69px;
@@ -162,13 +162,13 @@ ol li span {
 #space {
   width: 379px;
 }
-.arrow {
-  height: 38px;
-  line-height: 38px;
+#keyboard .arrow {
+  height: 33px;
+  line-height: 33px;
   margin: 0 12px 3px 0;
   font-size: 20px;
 }
-.up {
+#keyboard .up {
   margin: 0 83px 3px;
   border-radius: 8px 8px 0 0;
 }
