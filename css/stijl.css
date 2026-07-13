@@ -102,8 +102,21 @@ ol li span {
   height: 62px;
 }
 .special.tall {
-  height: 51px;
+  height: 41px;
   padding-top: 28px;
+}
+.special.multi-line {
+  height: 69px;
+  padding-top: 0;
+}
+.special.multi-line span {
+  position: static;
+  display: block;
+  height: auto;
+  padding: 0;
+  line-height: 23px;
+  font-size: 13px;
+  white-space: nowrap;
 }
 .less-padding {
   padding: 0 8px;
