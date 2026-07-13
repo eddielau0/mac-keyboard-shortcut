@@ -130,6 +130,9 @@ ol li span {
 #enter {
   width: 112px;
 }
+#touch-id {
+  border-radius: 50%;
+}
 .shift {
   width: 154px;
 }
