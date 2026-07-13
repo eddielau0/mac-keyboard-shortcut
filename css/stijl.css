@@ -124,14 +124,14 @@ ol li span {
 #tab {
   width: 96px;
 }
+#esc {
+  width: 96px;
+}
 #caps-lock {
   width: 114px;
 }
 #enter {
   width: 112px;
-}
-#touch-id {
-  border-radius: 50%;
 }
 .shift {
   width: 154px;
